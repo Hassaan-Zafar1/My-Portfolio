@@ -1,12 +1,14 @@
 import { motion } from "framer-motion";
 import { Download } from "lucide-react";
 import { useEffect, useState } from "react";
+import { label } from "three/src/nodes/core/ContextNode.js";
 
 const links = [
   { label: "About", href: "#about" },
   { label: "Skills", href: "#skills" },
   { label: "Projects", href: "#projects" },
   { label: "Experience", href: "#experience" },
+  {label: "Workshop", href: "#workshop"},
   { label: "Contact", href: "#contact" },
 ];
 

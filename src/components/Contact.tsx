@@ -15,7 +15,7 @@ export function Contact() {
           transition={{ duration: 0.7 }}
           className="max-w-4xl mx-auto text-center"
         >
-          <div className="text-sm font-mono text-primary uppercase tracking-[0.3em]">05 — Contact</div>
+          <div className="text-sm font-mono text-primary uppercase tracking-[0.3em]">06 — Contact</div>
           <h2 className="mt-4 text-5xl md:text-7xl font-bold tracking-tight">
             Let's build <span className="text-gradient-hero">something</span>.
           </h2>

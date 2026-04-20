@@ -58,7 +58,7 @@ export function Navbar() {
             href="/Hassaan Zafar.pdf" download
             className="hidden sm:inline-flex items-center gap-2 px-5 py-2 rounded-full bg-gradient-to-r from-primary to-accent text-primary-foreground text-sm font-medium hover:scale-105 transition-transform glow-neon"
           >
-            RESUME!
+            RESUME
             <Download className="h-4 w-4" />
           </a>
         </div>

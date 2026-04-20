@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import { Download } from "lucide-react";
 import { useEffect, useState } from "react";
 
 const links = [
@@ -54,10 +55,11 @@ export function Navbar() {
           </nav>
 
           <a
-            href="#contact"
+            href="/Hassaan Zafar.pdf" download
             className="hidden sm:inline-flex items-center gap-2 px-5 py-2 rounded-full bg-gradient-to-r from-primary to-accent text-primary-foreground text-sm font-medium hover:scale-105 transition-transform glow-neon"
           >
-            Let's Talk
+            RESUME
+            <Download className="h-4 w-4" />
           </a>
         </div>
       </div>

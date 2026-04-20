@@ -34,16 +34,16 @@ const projects: Project[] = [
     repo: "https://github.com/Hassaan-Zafar1/hassaan-zafar-mern-10pshine",
     accent: "from-fuchsia-400/40 to-purple-500/40",
   },
-  {
-    title: "PDF Semantic Search",
-    tagline: "RAG pipeline for documents",
-    description:
-      "End-to-end semantic search over PDFs using vector embeddings, FAISS similarity search, and Retrieval-Augmented Generation for context-aware answers.",
-    tags: ["Python", "FAISS", "RAG", "HuggingFace"],
-    link: "https://colab.research.google.com/drive/1Zx5VrzHHgeWQW5gOIgHwEy1F7thObxL1",
-    repo: "https://github.com/Hassaan-Zafar1/VectorBasedSemanticSearchWorkshop",
-    accent: "from-violet-400/40 to-indigo-500/40",
-  },
+  // {
+  //   title: "PDF Semantic Search",
+  //   tagline: "RAG pipeline for documents",
+  //   description:
+  //     "End-to-end semantic search over PDFs using vector embeddings, FAISS similarity search, and Retrieval-Augmented Generation for context-aware answers.",
+  //   tags: ["Python", "FAISS", "RAG", "HuggingFace"],
+  //   link: "https://colab.research.google.com/drive/1Zx5VrzHHgeWQW5gOIgHwEy1F7thObxL1",
+  //   repo: "https://github.com/Hassaan-Zafar1/VectorBasedSemanticSearchWorkshop",
+  //   accent: "from-violet-400/40 to-indigo-500/40",
+  // },
   {
     title: "AI Meeting Tracker",
     tagline: "Smart action-item extraction",

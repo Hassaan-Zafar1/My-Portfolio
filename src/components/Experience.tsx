@@ -53,7 +53,7 @@ export function Experience() {
                 <div className="text-sm text-muted-foreground">{item.location}</div>
               </div>
 
-              <div className={`pl-12 md:pl-0 ${i % 2 === 0 ? "md:pl-12" : "md:text-right md:pr-12"}`}>
+              <div className={`pl-12 md:pl-0 ${"md:pl-12"}`}>
                 <div className="glass-card rounded-2xl p-6 text-foreground/85 leading-relaxed">
                   {item.description}
                 </div>

@@ -50,7 +50,7 @@ const projects: Project[] = [
     description:
       "Web app that processes meeting notes to auto-identify action items, assign tasks, track completion, and surface deadline-risk insights.",
     tags: ["MERN", "Gemini API", "Redis", "Socket.io"],
-    link: "https://github.com/Hassaan-Zafar1",
+    link: "https://ai-meeting-tracker-nu.vercel.app/",
     repo: "https://github.com/Hassaan-Zafar1/AI-Meeting-Tracker",
     accent: "from-emerald-400/40 to-cyan-500/40",
   },

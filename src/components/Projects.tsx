@@ -15,6 +15,26 @@ type Project = {
 
 const projects: Project[] = [
   {
+  title: "ProLign",
+  tagline: "AI-powered mentorship marketplace",
+  description:
+    "AI-powered mentorship marketplace with intelligent onboarding, automated skill profiling, and a mentor-matching engine connecting students with industry professionals.",
+  tags: ["MERN", "Flutter", "Redux", "REST API’s"],
+  link: "https://prolign.vercel.app/",
+  repo: "https://github.com/Hassaan-Zafar1/ProLign",
+  accent: "from-purple-400/40 to-pink-500/40",
+  },
+  {
+  title: "AMU-Guard",
+  tagline: "Robust unlearning against adaptive membership inference attacks",
+  description:
+    "Lightweight post-hoc refinement of gradient-ascent unlearning that calibrates the forget set's loss distribution toward a held-out reference set, avoiding nested attacker optimization. Reduces shadow-model attack AUC from 0.6474 to 0.5873 across a seven-experiment adversarial protocol.",
+  tags: ["Python", "PyTorch", "Machine Unlearning", "Adversarial ML"],
+  link: "",
+  repo: "https://github.com/Hassaan-Zafar1/adv-unlearning",
+  accent: "from-emerald-400/40 to-teal-500/40",
+  },
+  {
     title: "CampusCollab",
     tagline: "University project management at scale",
     description:

@@ -3,6 +3,22 @@ import { SectionHeading } from "./About";
 
 const items = [
   {
+  role: "Software Development Intern",
+  company: "Bank Alfalah Pakistan",
+  period: "July 2026 — Aug 2026",
+  location: "Onsite",
+  description:
+    "Contributed to web and application development, debugging, and technical problem-solving. Collaborated with development teams to implement features, improve application performance, and apply modern software development practices.",
+  },
+  {
+  role: "Development Intern",
+  company: "Folio3 Pakistan",
+  period: "June 2026 — Aug 2026",
+  location: "Hybrid",
+  description:
+    "Engineering a full-stack AI-powered web and mobile application in cross-functional teams through a structured 9-week internship, with weekly evaluations by industry professionals.",
+  },
+  {
     role: "MERN Fullstack Developer Intern",
     company: "10pearls",
     period: "Dec 2025 — Feb 2026",
